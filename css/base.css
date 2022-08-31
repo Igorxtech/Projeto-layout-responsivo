@@ -15,10 +15,13 @@
     --planos-cartao-start: #56CCF2;
     --planos-cartao-ultra: #B04CD9;
     --planos-cartao-mega: #E33B3B;
+
+    --montserrat: 'Montserrat', sans-serif;
 }
 
 body {
     font-family: 'Open Sans', 'Sans Serif';
+    width: 100%;
 }
 
 .container {
